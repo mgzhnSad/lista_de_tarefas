@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    background: #f8f8f8;
+}
+
+.container{
+    background: #fff;
+    text-align: center;
+    height: 120px;
+
+}
+
+#adcbtn{
+    background: #18ffff;
+    border: 2px solid #18ffff;
+    padding: 10px;
+}
+#rmbtn{
+    background: #18ffff;
+    border: 2px solid #18ffff;
+    padding: 10px;
+    margin-left: 10px;
+}
+#lista{
+    list-style-type: none;
+    text-align: center;
+}
